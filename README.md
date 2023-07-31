@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guy Chelouche</h1>
-<h3 align="center">Searching for my next challenge as a Full-stack/ Frontend developer</h3>
+<h3 align="center">Searching for my next challenge as a QA/ Full-stack developer</h3>
 
 - 🔭 I’m currently looking for my first opportunity to work in **web development**
 
